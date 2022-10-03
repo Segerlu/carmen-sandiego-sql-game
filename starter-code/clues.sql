@@ -1,6 +1,14 @@
 -- Clue #1: We recently got word that someone fitting Carmen Sandiego's description has been
 -- traveling through Southern Europe. She's most likely traveling someplace where she won't be noticed,
 -- so find the least populated country in Southern Europe, and we'll start looking for her there.
+--SHE IS IN Holy See (Vatican City State)
+--Learning Italian
+--Moved to San Marino
+--Shes in the city of Serravalle
+--She is now in Serra in Brazil
+--Bras�lia
+
+
 
 
 
@@ -54,4 +62,4 @@
 
 
 
--- She's in ____________________________!
+-- She's in _________Santa Monica, California, USA!
